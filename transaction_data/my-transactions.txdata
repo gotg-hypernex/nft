@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "GotGExists",
+        "transactionLabel": "A test GotGExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "CreateGotG",
+        "transactionLabel": "A test CreateGotG transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "ReadGotG",
+        "transactionLabel": "A test ReadGotG transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "UpdateGotG",
+        "transactionLabel": "A test UpdateGotG transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "DeleteGotG",
+        "transactionLabel": "A test DeleteGotG transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
