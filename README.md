@@ -27,13 +27,13 @@ NFT, a digital asset.
 
 Instead of digital assets that were invisible making doubt for the existence, NFT known as
 a visible digital asset is recently all the rage.
-GotG issued the world's first tangible asset based NFT in April 2021. The NFTs created by
-GotG are visible. We approached NFT in the eyes of Liberal arts, not in the eyes of
+__GotG__ issued the world's first tangible asset based NFT in April 2021. The NFTs created by
+__GotG__ are visible. We approached NFT in the eyes of Liberal arts, not in the eyes of
 technology. Therefore, we could plan and release the differentiated NFT business model
 and could still run new businesses with a number of partners.
-GotG provides a written NFT digital guarantee (certification of genuine product) for the
+__GotG__ provides a written NFT digital guarantee (certification of genuine product) for the
 products in Amazon Korea Mall by utilizing NFT certification feature. Also, we are
 planning to provide consumers 'compensation·guarantee plan' by applying the DAG
 solution in case of forgery accidents or copyright violations. Since the native Token(Key
 digital token) GotG is used in all processes such as guarantee, insurance, and
-compensation, the value of GotG will continue to increase.
+compensation, the value of __GotG__ will continue to increase.
